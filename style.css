@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  font-family: sans-serif;
+  background-color: #bde1f1;
+}
+
+#projects {
+  scroll-padding-inline: 2rem;
+  -webkit-column-break-after: auto;
+  background-color: #bde1f1;
+}
+
+section {
+  padding-top: 5rem;
+}
